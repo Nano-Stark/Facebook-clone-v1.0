@@ -23,7 +23,7 @@ const Login = () => {
     <div className="login">
         <div className="login_logo">
             <img 
-                src="src\facebook.svg"
+                src="https://www.logo.wine/a/logo/Facebook/Facebook-f_Logo-Blue-Logo.wine.svg"
                 alt=""
             />
             <img 

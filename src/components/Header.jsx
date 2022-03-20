@@ -13,7 +13,7 @@ const Header = () => {
   return (
     <div className="header">
         <div className="header_left">
-          <img src="src\facebook.svg"
+          <img src="https://www.logo.wine/a/logo/Facebook/Facebook-f_Logo-Blue-Logo.wine.svg"
                alt="facebook-logo" 
            />
            <div className="header_input">
